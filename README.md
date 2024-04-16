@@ -1,2 +1,2 @@
-# discover
-Código feito durante o curso da @rocketseat
+# Curso Discover
+Código feito durante o curso Discover da @rocketseat
